@@ -12,3 +12,5 @@ Presented at Industrial Simulation Conference 2024 by Satyajeet Bhonsale
 - [Mores et al. 2023, Computers & Chemical Engineering (169), 108099](https://doi.org/10.1016/j.compchemeng.2022.108099)
 ## Sensitivity analysis using PCE
 - [Bhonsale, Munoz-Lopez (joint first authors), Van Impe 2019, Processes, 7 (9), 562](https://doi.org/10.3390/pr7090562) 
+## Genetic Algorithms
+- [De Buck et al. 2021., Frontiers in Chemical Engineering, 3:582123].(https://doi.org/10.3389/fceng.2021.582123)
